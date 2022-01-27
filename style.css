@@ -42,3 +42,13 @@ h2 {
 .pic {
   height: 400px;
 }
+.cloud {
+  position: absolute;
+  left: 80px;
+  top: 40px;
+}
+.cloud1 {
+  position: absolute;
+  right: 50px;
+  top: 300px;
+}
