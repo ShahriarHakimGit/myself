@@ -43,11 +43,15 @@ h2 {
   height: 400px;
 }
 .cloud {
+  height: 20%;
+  width: 10%;
   position: absolute;
   left: 10%;
   top: 10%;
 }
 .cloud1 {
+  height: 20%;
+  width: 10%;
   position: absolute;
   right: 10%;
   top: 50%;
